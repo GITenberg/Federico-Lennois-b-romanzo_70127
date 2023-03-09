@@ -1,0 +1,33 @@
+_repo: Federico-Lennois-b-romanzo_70127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mastriani, Francesco
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '52893'
+    url: http://www.gutenberg.org/2009/agents/52893
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francesco_Mastriani
+    - https://it.wikipedia.org/wiki/Francesco_Mastriani
+description: 'Seguito del romanzo Il mio cadavere, #64421.'
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70127'
+language: it
+pgterms:marc904: https://archive.org/details/federicolennoisr00mastuoft/page/n5/mode/2up
+pgterms:marc905: 20200514025301mastriani
+pgterms:marc906: '1893'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bSalvati, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Federico Lennois : $b romanzo'
+url: http://www.gutenberg.org/ebooks/70127
